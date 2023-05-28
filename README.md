@@ -6,4 +6,4 @@
 
 💪 I’m looking to collaborate with like-minded professionals who are passionate about fintech and the potential of web3 technologies. Whether it's working on crazy ideas, contributing to disruptive ideas, or exploring new avenues in the financial industry, I am excited to collaborate and make a meaningful impact.
 
-I'm here to help the world build products and change people life, teach others learn to code, to do great things, python lover, dance enthusiast.🦄
+I'm here to help the world build products that change people's life, teach others learn to code, to do great things, python lover, dance enthusiast.🦄
