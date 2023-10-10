@@ -4,7 +4,7 @@
 ## About me
 
 - 👨‍🔬 Smart Contract Engineer
-- 🛠 Product Engineer | Python | React 
+- 🛠 Product Engineer | Python | React | Typescript
 - 📫 You can reach me for consulting on Twitter [@ialmanzaj](https://twitter.com/ialmanzaj)
 
 
