@@ -24,6 +24,6 @@
 
 #### Speedrun challenges
   - [Minimum Viable Decentralized Exchange](https://github.com/ialmanzaj/minimum-viable-exchange) | Simplified decentralized exchange
-  - [Dice Game](https://github.com/ialmanzaj/challenge-3-dice-game]) | Dice Game dapp
-  - [Decentralized stacking](https://github.com/ialmanzaj/challenge-1-decentralized-staking]) | Decentralized stacking dapp
+  - [Dice Game](https://github.com/ialmanzaj/challenge-3-dice-game) | Dice Game dapp
+  - [Decentralized stacking](https://github.com/ialmanzaj/challenge-1-decentralized-staking) | Decentralized stacking dapp
 
