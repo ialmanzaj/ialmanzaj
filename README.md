@@ -10,7 +10,7 @@
 
 ## 💻 Dev
 
-+5 years of and developing creating products in the fintech space from designing their APIs, architecture, and infrastructure.
++5 years of developing new products in the fintech space mostly early YC startups from designing their APIs, architecture, and infrastructure.
 
 ### Preferred Stack
 
