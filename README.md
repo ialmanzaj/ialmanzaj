@@ -3,7 +3,7 @@
 
 ## About me
 
-- 👨‍🔬 Smart Contract Engineer
+- 👨‍🔬 Buildor
 - 🛠 Product Engineer | Python | React | Typescript
 - 📫 You can reach me for consulting on Twitter [@ialmanzaj](https://twitter.com/ialmanzaj)
 
@@ -20,7 +20,7 @@
 [![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)](https://[python](https://python.org)https://python.org/)
 
 
-### Web3 Dapps
+### Onchain apps
 
 #### Speedrun challenges
   - [Minimum Viable Decentralized Exchange](https://github.com/ialmanzaj/minimum-viable-exchange) | Simplified decentralized exchange
