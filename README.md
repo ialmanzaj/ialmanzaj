@@ -1,23 +1,22 @@
-### Hi fren 👋  I'm Isaac Almanza
+### I'm Isaac Almanza
 
 
-## About me
+## about me
 
-- 👨‍🔬 Buildor
-- 🛠 Product Engineer | Python | React | Typescript
-- 📫 You can reach me for consulting on Twitter [@ialmanzaj](https://twitter.com/ialmanzaj)
+now: Building Zeneca.app a wallet for remote workers. Focus on stablecoins, payments and useful onchain app. 
 
 
-## 💻 Dev
+- 👨‍🔬 idea guy & Buildor
+- 🛠 Product Engineer 
+
+## exp
 
 +5 years of developing new products in the fintech space mostly early YC startups from designing their APIs, architecture, and infrastructure.
 
-### Preferred Stack
-
-[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org/en/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)](https://[python](https://python.org)https://python.org/)
+### Stack 2024
+- React/typescript/next
+- Solidity
+- Python/Fastapi
 
 
 ### Onchain apps
@@ -28,3 +27,4 @@
   - [Decentralized stacking](https://github.com/ialmanzaj/challenge-1-decentralized-staking) | Decentralized stacking dapp
   - [Token Vendor](https://github.com/ialmanzaj/challenge-2-token-vendor) | Token Vendor dapp to allow buy/sell token at set price for ETH
 
+- 📫 You can reach me on Twitter [@ialmanzaj](https://twitter.com/ialmanzaj)
