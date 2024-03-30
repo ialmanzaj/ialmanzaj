@@ -3,7 +3,7 @@
 
 ## about me
 
-now: Building Zeneca.app a wallet for remote workers. Focus on stablecoins, payments and useful onchain app. 
+now: Building Zeneca a wallet for remote workers. Focus on stablecoins, payments, and useful onchain apps. 
 
 
 - 👨‍🔬 idea guy & Buildor
